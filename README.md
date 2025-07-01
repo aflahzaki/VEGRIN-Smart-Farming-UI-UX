@@ -21,4 +21,4 @@ Kata kunci – UI/UX; Pertanian Cerdas; AI Tanaman; Design Thinking; Aplikasi Se
 
 ### Lihat Naskah Lengkap
 
-Anda dapat melihat naskah lengkap yang kami serahkan dalam file [Naskah_VEGRIN_Submitted.pdf](Naskah_VEGRIN_Submitted.pdf) yang ada di repository ini.
+Anda dapat melihat naskah lengkap yang kami serahkan dalam file VEGRIN PERANCANGAN ANTARMUKA APLIKASI PERTANIAN CERDAS BERBASIS AI, CUACA, DAN MARKETPLACE DENGAN PENDEKATAN USER-CENTERED DESIGN.doxc yang ada di repository ini.
